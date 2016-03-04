@@ -1,4 +1,5 @@
- Mogo iOS
+Mogo群聊客户端
+Mogo iOS
 =========
 An iOS client for [Mogo](https://github.com/HashNuke/mogo-chat).
 
